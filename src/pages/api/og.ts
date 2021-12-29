@@ -26,7 +26,7 @@ export default withOGImage<'query', keyof typeof GeneralQueryEnum>({
       const query = {
         siteName: siteName ?? 'Site Name',
         description: description ?? 'Description',
-        logo: logo ?? 'https://og.thcl.dev/images/logo.jpg',
+        logo: logo ?? 'https://og.wansaleh.com/relieved.png',
         theme: theme ?? 'dark',
         title,
         logoWidth: logoWidth ?? '100',
